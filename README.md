@@ -1,6 +1,6 @@
 # Degrees of Separation - CS50 AI Project
 
-This project was completed as part of Harvard's [CS50 AI course](https://cs50.harvard.edu/ai/2023/). It calculates the shortest "degrees of separation" between any two actors in Hollywood using movies they have starred in together.
+This project was completed as part of Harvard's [CS50 AI course](https://cs50.harvard.edu/). It calculates the shortest "degrees of separation" between any two actors in Hollywood using movies they have starred in together.
 
 ---
 
